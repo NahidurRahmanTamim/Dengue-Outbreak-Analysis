@@ -52,4 +52,4 @@ It was developed using **Power Query, Pivot Tables, PowerPivot (Data Model), and
 
 ---
 
-## 📂 Project Structure
+
